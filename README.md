@@ -20,8 +20,4 @@ Usage:
 
 ./207demography code [...]
 
-code    country cod
-
-Example:
-
-![alt text](https://github.com/alexandre10044/207demography/blob/master/example.png?raw=true)
+code    country code
